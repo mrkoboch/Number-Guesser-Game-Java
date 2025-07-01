@@ -17,3 +17,5 @@ A simple Java console game where the computer picks a random number between 0-10
 - User input with Scanner
 - Input validation
 - Random number generation
+
+Konstantin Bocharov - mrkoboch
